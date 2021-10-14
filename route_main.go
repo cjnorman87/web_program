@@ -1,8 +1,9 @@
 package main
 
 import (
-	"data"
 	"net/http"
+
+	"github.com/cjnorman87/web_program/data"
 )
 
 // GET /err?msg=
